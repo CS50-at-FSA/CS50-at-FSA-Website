@@ -3,7 +3,6 @@ title: false
 ---
 
 # THIS SITE IS ON DEVELOPMENT
-!> THIS SITE IS ON DEVELOPMENT
 
 # Hello, world!
 
