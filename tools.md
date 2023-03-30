@@ -4,17 +4,6 @@
 
 ---
 
-## CS50 Sandbox
-
-Temporary programming environments for students and teachers
-<https://sandbox.cs50.io/>
-
-## CS50 IDE
-
-CS50 IDE is a cloud-based Integrated Development Environment powered by AWS Cloud9 that features a cloud-based Ubuntu environment. Since it’s cloud-based, you can continue working on your problem sets even if you use a different computer!
-
-You can also share your workspace with others. Visit [https://cs50.readthedocs.io/ide/online/#sharing-your-workspace](https://cs50.readthedocs.io/ide/online/#sharing-your-workspace) for more information.
-
 ## Command-Line Tools
 
 #### `help50`
@@ -41,3 +30,5 @@ Usage: `check50 cs50/problems/2018/ap/problem_name`
 ## Documentation
 
 <https://cs50.readthedocs.io/>
+
+## More Comming Soon!
