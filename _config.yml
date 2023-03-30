@@ -5,4 +5,10 @@ plugins:
 
 remote_theme: cs50/jekyll-theme-cs50
 
-title: This is CS50
+cs50:
+  alert: warning
+  description: Fulton Science Academy
+  image: /static/cat.jpg
+  locale: en
+  title: This is CS50
+  tz: America/New_York

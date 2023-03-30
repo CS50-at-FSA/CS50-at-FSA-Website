@@ -1,4 +1,4 @@
-# [CS50 AP]({{ "/" | relative_url }})
+# [This is CS50]({{ "/" | relative_url }})
 
-Harvard University\\
-2019–2020
+Fulton Science Academy\\
+2023 Spring
