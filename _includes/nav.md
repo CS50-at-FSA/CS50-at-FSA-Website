@@ -1,9 +1,13 @@
-[Instructed by]
-[Yujun (Paul) Kim]
+**Instructed by**
+
+Yujun (Paul) Kim
+
 [Home](https://paulkim.me) | [Conatct](mailto://ykim@fultonscienceacademy.org)
 
 Originally taught by
+
 David J. Malan
+
 malan@harvard.edu
 
 ***
