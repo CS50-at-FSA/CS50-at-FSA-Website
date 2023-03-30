@@ -2,9 +2,17 @@
 
 * [Hardware](understanding_technology/hardware/)
 * [Internet](internet)
+* [Multimedia]
+* [Security]
+
+# World of Computer Science
+* [Data Science]
+* [Impact of Computing]
+
+<!--
+
 * [Multimedia](multimedia)
 * [Security](security)
-<!--
 * Reference Sheets
   * [Computers and Computing](https://ap.cs50.school/assets/pdfs/computers_and_computing.pdf)
   * [CPU and SoC](https://ap.cs50.school/assets/pdfs/cpu_and_soc.pdf)
@@ -16,12 +24,35 @@
   * [Trust Models](https://ap.cs50.school/assets/pdfs/trust_models.pdf)
   * [Virtual and Augmented Reality](https://ap.cs50.school/assets/pdfs/virtual_and_augmented_reality.pdf)
 
--->
+
+
 * [Data Science](data_science)
 * [Impact of Computing](impact_of_computing)
 
+-->
+# Introduction to Computer Science
+After completion of Understanding Technology and World of CS, we will study the "ACTUAL" part of programming as following path, Introduction to Computer Science (a.k.a. CS50 Core Curriculum)
 
-# CS50 Core Curriculum: Introduction to Computer Science
+* Week 0 Introduction to Programming
+* Week 1 C
+* Week 2 Arrays
+* Week 3 Algorithms
+* Week 4 Memory
+* Week 5 Data Structures
+* Week 6 Python
+* Week 7 SQL
+* Week 8 HTML, CSS, JavaScript
+* Week 9 Flask
+* Week 10 Emoji
+* [Final Project](#final-project)
+
+Each week provides problem sets and lab, excluding Week 0.   
+
+## Final Project
+The climax of this course is its final project. The final project is your opportunity to take your newfound savvy with programming out for a spin and develop your very own piece of software. So long as your project draws upon this course’s lessons, the nature of your project is entirely up to you. You may implement your project in any language(s). You are welcome to utilize infrastructure other than the CS50 Codespace. All that we ask is that you build something of interest to you, that you solve an actual problem, that you impact your community, or that you change the world. Strive to create something that outlives this course. If needed, mentor(s) are more than welcome to assist students journey while completing the Final Project.
+
+You can view previous CS50 student's final project at  
+
 <!--
 * [Chapter 0](0)
 * [Chapter 1](1)
@@ -33,5 +64,3 @@
 * [Chapter 7](7)
 * [Chapter 8](8)
 -->
-
-* Chapter 0

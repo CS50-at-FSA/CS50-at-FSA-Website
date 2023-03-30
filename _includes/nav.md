@@ -5,26 +5,39 @@
 
 ***
 
-* Originally taught by
-* David J. Malan
-* malan@harvard.edu
+* Understanding Technology
+* [Week 1. Hardware](../curriculum/understanding_technology/hardware/)
+* [Week 2. Interent](../curriculum/understanding_technology/internet)
+* [Week 3. Multimedia]
+* [Week 4. Security]
 
 ***
 
-* [Visual Studio Code for CS50](https://code.cs50.io/)
-* [CS50 Programmer's Manual](https://man.cs50.io/)
+* World of Computing
+* [Week 1. Data Science]
+* [Week 2. Impact of Computing]
 
 ***
 
-* [Status Page](https://cs50.statuspage.io/)
-* Gradebook
+* Introduction to CS
+* Comming Soon.
 
 ***
 
-* [**Curriculum**]({{ "/curriculum" | relative_url }})
 * [Tools]({{ "/tools" | relative_url }})
 * [Syllabus]({{"/syllabus" | relative_url }})
 
 ***
 
+* [Visual Studio Code for CS50](https://code.cs50.io/)
+* [CS50 Programmer's Manual](https://man.cs50.io/)
+* [Status Page](https://cs50.statuspage.io/)
+* Gradebook
+* [**Curriculum Compilation**](../curriculum/)
+
+***
+
+* Originally taught by
+* David J. Malan
+* malan@harvard.edu
 * [**LICENSE**](https://cs50.harvard.edu/x/2023/license/)
