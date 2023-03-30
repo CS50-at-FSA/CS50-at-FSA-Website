@@ -2,6 +2,7 @@
 * [Yujun "Paul" Kim](https://paulkim.me)
 * [ykim@fultonscienceacademy.org](mailto:ykim@fultonscienceacademy.org)
 
+
 * [Originally taught by](https://cs50.harvard.edu/x)
 * [David J. Malan](https://cs.harvard.edu/malan/)
 * [malan@harvard.edu](mailto:malan@harvard.edu)
