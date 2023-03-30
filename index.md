@@ -10,7 +10,8 @@ This is CS50 at Fulton Science Academy Private School, an adoption of FSA's CS50
 
 CS50 AP is Harvard University's introduction to the intellectual enterprises of computer science and the art of programming for students in high school, which satisfies the College Board's new AP CS Principles curriculum framework. In this academic year (2023 Spring) we will mainly focus on CS50T part, and will most likely complete CS50P or CS50x on 2023 Fall.
 
-<iframe src="https://video.cs50.io/WHcgVxTYIyc"></iframe>
++ Introduction Video
+    <iframe src="https://video.cs50.io/WHcgVxTYIyc"></iframe>
 
 ## How to Take this Course
 ### Students & Faculty of Fulton Science Academy
