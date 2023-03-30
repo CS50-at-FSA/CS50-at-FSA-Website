@@ -24,16 +24,13 @@
 
 ***
 
+* [**Curriculum Compilation**]({{"/curriculum" | relative_url }})
 * [Tools]({{ "/tools" | relative_url }})
-* [Syllabus]({{"/syllabus" | relative_url }})
-
-***
-
 * [Visual Studio Code for CS50](https://code.cs50.io/)
 * [CS50 Programmer's Manual](https://man.cs50.io/)
 * [Status Page](https://cs50.statuspage.io/)
 * Gradebook
-* [**Curriculum Compilation**](../curriculum/)
+* [Syllabus]({{"/syllabus" | relative_url }})
 
 ***
 
