@@ -2,12 +2,12 @@
 
 * [Hardware](understanding_technology/hardware/)
 * [Internet](internet)
-* [Multimedia]
-* [Security]
+* Multimedia
+* Security
 
 # World of Computer Science
-* [Data Science]
-* [Impact of Computing]
+* Data Science
+* Impact of Computing
 
 <!--
 
@@ -33,7 +33,7 @@
 # Introduction to Computer Science
 After completion of Understanding Technology and World of CS, we will study the "ACTUAL" part of programming as following path, Introduction to Computer Science (a.k.a. CS50 Core Curriculum)
 
-* Week 0 Introduction to Programming
+* Week 0 Computational Thinking
 * Week 1 C
 * Week 2 Arrays
 * Week 3 Algorithms
@@ -51,7 +51,10 @@ Each week provides problem sets and lab, excluding Week 0.
 ## Final Project
 The climax of this course is its final project. The final project is your opportunity to take your newfound savvy with programming out for a spin and develop your very own piece of software. So long as your project draws upon this course’s lessons, the nature of your project is entirely up to you. You may implement your project in any language(s). You are welcome to utilize infrastructure other than the CS50 Codespace. All that we ask is that you build something of interest to you, that you solve an actual problem, that you impact your community, or that you change the world. Strive to create something that outlives this course. If needed, mentor(s) are more than welcome to assist students journey while completing the Final Project.
 
-You can view previous CS50 student's final project at  
+You can view previous CS50 student's final project
+    * By Yale University Students at [cs50.yale.edu/2022/fall/projects/](https://cs50.yale.edu/2022/fall/projects/)
+    * By Harvard University Students at [cs50.harvard.edu/college/2022/fall/](https://cs50.harvard.edu/college/2022/fall/)
+    * By Students from Worldwide via OpenCourseWare at [hcs50.harvard.edu/x/2022/gallery](https://cs50.harvard.edu/x/2022/gallery/)
 
 <!--
 * [Chapter 0](0)

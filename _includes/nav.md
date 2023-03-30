@@ -7,15 +7,15 @@
 
 * Understanding Technology
 * [Week 1. Hardware](../curriculum/understanding_technology/hardware/)
-* [Week 2. Interent](../curriculum/understanding_technology/internet)
-* [Week 3. Multimedia]
-* [Week 4. Security]
+* Week 2. Interent
+* Week 3. Multimedia
+* Week 4. Security
 
 ***
 
 * World of Computing
-* [Week 1. Data Science]
-* [Week 2. Impact of Computing]
+* Week 1. Data Science
+* Week 2. Impact of Computing
 
 ***
 
