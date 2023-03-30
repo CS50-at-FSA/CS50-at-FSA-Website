@@ -1,14 +1,10 @@
-**Instructed by**
+[**Instructed by**]
+[Yujun (Paul) Kim](https://paulkim.me) 
+[ykim@fultonscienceacademy.org](mailto:ykim@fultonscienceacademy.org)
 
-Yujun (Paul) Kim
-
-[Home](https://paulkim.me) | [Conatct](mailto://ykim@fultonscienceacademy.org)
-
-Originally taught by
-
-David J. Malan
-
-malan@harvard.edu
+[Originally taught by](https://cs50.harvard.edu)
+[David J. Malan](https://cs.harvard.edu/malan/)
+[malan@harvard.edu](mailto:malan@harvard.edu)
 
 ***
 
