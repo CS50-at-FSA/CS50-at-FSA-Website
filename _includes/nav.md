@@ -1,7 +1,7 @@
 
 * [Instructed by](#)
 * [Yujun "Paul" Kim](https://paulkim.me)
-* [Contact](mailto:ykim@fultonscienceacademy.org)
+* [ykim@fultonscienceacademy.org](mailto:ykim@fultonscienceacademy.org)
 
 ***
 
