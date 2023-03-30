@@ -10,5 +10,5 @@ cs50:
   description: CS50 at Fulton Science Academy
   image: /static/cat.jpg
   locale: en
-  title: This is CS50
+  title: CS50 at FSA
   tz: America/New_York

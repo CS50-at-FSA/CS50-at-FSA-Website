@@ -1,6 +1,5 @@
-Instructed by
-Yujun (Paul) Kim
-ykim@fultonscienceacademy.org
+[Instructed by]
+[Yujun (Paul) Kim]
 [Home](https://paulkim.me) | [Conatct](mailto://ykim@fultonscienceacademy.org)
 
 Originally taught by
@@ -15,7 +14,7 @@ malan@harvard.edu
 ***
 
 * [Status Page](https://cs50.statuspage.io/)
-* [Gradebook]
+* Gradebook
 
 ***
 
