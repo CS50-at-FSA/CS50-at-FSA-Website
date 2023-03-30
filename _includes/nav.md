@@ -30,7 +30,6 @@
 * [CS50 Programmer's Manual](https://man.cs50.io/)
 * [Status Page](https://cs50.statuspage.io/)
 * Gradebook
-* [Syllabus]({{"/syllabus" | relative_url }})
 
 ***
 
