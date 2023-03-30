@@ -1,1 +1,1 @@
-[Not a member of Fulton Science Academy?](../index.md/#audience-outside-from-fulton-science-academy)
+[Not a member of Fulton Science Academy?](../#audience-outside-from-fulton-science-academy)

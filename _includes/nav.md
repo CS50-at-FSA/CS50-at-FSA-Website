@@ -1,4 +1,4 @@
-[**Instructed by**](#)
+Instructed by
 [Yujun (Paul) Kim](https://paulkim.me) 
 [ykim@fultonscienceacademy.org](mailto:ykim@fultonscienceacademy.org)
 
