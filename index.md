@@ -15,7 +15,7 @@ CS50 AP is Harvard University's introduction to the intellectual enterprises of 
 ## How to Take this Course
 ### Students & Faculty of Fulton Science Academy
 Students and Faculty of Fulton Science Academy Private School can access the materials uploaded on this site. Various materials requires you to log in with your FSA Google Account. If you are part of FSA but do not have your email, please contact the [IT Department](https://fultonscienceacdemy.org). 
-After the confirmation with IT department that your account has no problem but still not able to access, please contact [Paul Kim](mailto://ykim@fultonscienceacademy.org).
+After the confirmation with IT department that your account has no problem but still not able to access, please contact [Paul Kim](mailto:ykim@fultonscienceacademy.org).
 
 ### Audience OUTSIDE from Fulton Science Academy
 > If you are not a member of Fulton Science Academy, the **access for this site will be highly limited**. Please check out Harvard University's OpenCourseWare or edX if you are interested to take CS50.
