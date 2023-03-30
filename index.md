@@ -22,7 +22,7 @@ Whether students elect to take no other computer science courses in their lifeti
 Students and Faculty of Fulton Science Academy Private School can access the materials uploaded on this site. Various materials requires you to log in with your FSA Google Account. If you are part of FSA but do not have your email, please contact the [IT Department](https://fultonscienceacdemy.org). 
 After the confirmation with IT department that your account has no problem but still not able to access, please contact [Paul Kim](mailto:ykim@fultonscienceacademy.org).
 
-## Audience OUTSIDE from Fulton Science Academy
+## Audience OUTSIDE of Fulton Science Academy
 > If you are not a member of Fulton Science Academy, the **access for this site will be highly limited**. Please check out Harvard University's OpenCourseWare or edX if you are interested to take CS50.
 
 Even if you are not a student at Harvard, you are welcome to “take” CS50 courses for free. If you’d like to submit the course’s assignments for feedback, be sure to create an edX account, if you haven’t already. Ask questions along the way via any of the course’s communities!
