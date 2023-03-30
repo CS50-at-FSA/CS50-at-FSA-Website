@@ -6,8 +6,8 @@ plugins:
 remote_theme: cs50/jekyll-theme-cs50
 
 cs50:
-  alert: warning
-  description: Fulton Science Academy
+  alert: warning dismissible
+  description: CS50 at Fulton Science Academy
   image: /static/cat.jpg
   locale: en
   title: This is CS50

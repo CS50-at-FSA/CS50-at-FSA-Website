@@ -1,15 +1,28 @@
+Instructed by
+Yujun (Paul) Kim
+ykim@fultonscienceacademy.org
+[Home](https://paulkim.me) | [Conatct](mailto://ykim@fultonscienceacademy.org)
+
+Originally taught by
+David J. Malan
+malan@harvard.edu
+
 ***
 
-* [CS50 IDE](https://ide.cs50.io/)
+* [Visual Studio Code for CS50](https://code.cs50.io/)
 * [CS50 Programmer's Manual](https://man.cs50.io/)
 
 ***
 
 * [Status Page](https://cs50.statuspage.io/)
-* [Style Guide](https://cs50.readthedocs.io/style/c/)
+* [Gradebook]
 
 ***
 
 * [**Curriculum**]({{ "/curriculum" | relative_url }})
 * [Tools]({{ "/tools" | relative_url }})
 * [Syllabus]({{"/syllabus" | relative_url }})
+
+***
+
+* [**LICENSE**](https://cs50.harvard.edu/x/2023/license/)
