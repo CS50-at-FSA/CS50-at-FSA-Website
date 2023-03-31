@@ -2,7 +2,10 @@
 title: false
 ---
 
-# THIS SITE IS ON DEVELOPMENT
+# 📢 Announcement
+
+- No announcement currently available.
+
 
 # Hello, world!
 
