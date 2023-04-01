@@ -19,7 +19,7 @@
 
 ***
 
-* Introduction to CS
+* Introduction to Programming
 * Comming Soon.
 
 ***
