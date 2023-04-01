@@ -4,6 +4,20 @@
 
 ---
 
+## CS50 Labs
+
+CS50's own code learning platform for students and teachers.
+<https://lab.cs50.io/>
+
+## CS50 IDE
+
+CS50 IDE will be depreciated and the course itself on FSA will utilize Visual Studio Code for CS50.    
+The documentation could be found at [here.](https://cs50.readthedocs.io/code/)
+
+## Other Tools
+Although there are various tools that CS50 provides for its students, but the course itself at FSA will not utilize those since CS50 Labs and VSCode for CS50 is powerful enough to engage students.
+
+
 ## Command-Line Tools
 
 #### `help50`
@@ -30,5 +44,3 @@ Usage: `check50 cs50/problems/2018/ap/problem_name`
 ## Documentation
 
 <https://cs50.readthedocs.io/>
-
-## More Comming Soon!

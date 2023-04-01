@@ -7,8 +7,8 @@ remote_theme: cs50/jekyll-theme-cs50
 
 cs50:
   alert: warning dismissible
-  description: CS50 at Fulton Science Academy
-  image: /static/cat.jpg
+  description: The Fulton Science Academy's adoption of Harvard University's CS50 course. Provided as noncredit and student-led.
+  image: /assets/images/Harvard_University_shield.png
   locale: en
   title: CS50 at FSA
   tz: America/New_York
