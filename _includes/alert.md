@@ -1,1 +1,1 @@
-This is CS50 at Fulton Science Academy! 🎉 [Not a member of Fulton Science Academy?](../index.md/#audience-outside-of-fulton-science-academy)
+This is CS50 at Fulton Science Academy! 🎉 [Not a member of Fulton Science Academy?](../#audience-outside-of-fulton-science-academy)
