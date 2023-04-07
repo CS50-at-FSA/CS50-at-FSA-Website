@@ -5,27 +5,17 @@
 
 ***
 
-* Understanding Technology
-* [Week 1. Hardware](../curriculum/understanding_technology/hardware/)
-* Week 2. Interent
-* Week 3. Multimedia
-* Week 4. Security
-
-***
-
-* World of Computing
-* Week 1. Data Science
-* Week 2. Impact of Computing
-
-***
-
 * Introduction to Programming
 * Comming Soon.
 
 ***
 
+* Hello, World!
 * [**Curriculum Compilation**]({{"/curriculum" | relative_url }})
-* [Hello, World!](../hello_world.md)
+* [Previous Lectures]
+* [Tools]({{ "/tools" | relative_url }})
+* [Visual Studio Code for CS50](https://code.cs50.io/)
+* [CS50 Programmer's Manual](https://man.cs50.io/)
 * [Status Page](https://cs50.statuspage.io/)
 * Gradebook
 
