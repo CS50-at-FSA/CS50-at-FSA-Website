@@ -36,4 +36,4 @@
 * Originally taught by
 * David J. Malan
 * malan@harvard.edu
-* [**LICENSE**](https://cs50.harvard.edu/x/2023/license/)
+* [**LICENSE**](https://cs50.harvard.edu/x/license/)
