@@ -25,7 +25,7 @@
 ***
 
 * [**Curriculum Compilation**]({{"/curriculum" | relative_url }})
-* [Hello, World!](../hello_world.md)
+* [Hello, World!](https://cs50.paulkim.me/hello_world/)
 * [Status Page](https://cs50.statuspage.io/)
 * Gradebook
 
