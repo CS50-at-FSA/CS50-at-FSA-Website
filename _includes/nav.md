@@ -6,7 +6,7 @@
 ***
 
 * Understanding Technology
-* [Week 1. Hardware](https://cs50.paulkim.me/curriculum/understanding_technology/hardware/))
+* [Week 1. Hardware](https://cs50.paulkim.me/curriculum/understanding_technology/hardware/)
 * Week 2. Interent
 * Week 3. Multimedia
 * Week 4. Security
