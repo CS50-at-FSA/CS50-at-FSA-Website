@@ -4,5 +4,6 @@ title: false
 
 # 📢 Announcement
 
-- The course is not yet available. Please visit later to fully utilize the materials uploaded in the website.
-- This course is student led. Contact [Paul Kim](mailto:ykim@fultonscienceacademy) if any support is needed.
+- Materials for Week 1 is posted. Check the sidebar if needed.
+- Sign up for GitHub at [https://github.com/signup]
+- This course is student-led. Contact [Paul Kim](mailto:ykim@fultonscienceacademy.org) if any help is needed.
